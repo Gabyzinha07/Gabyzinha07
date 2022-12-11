@@ -12,11 +12,10 @@
 * CSS;
 * JavaScript;
 * Pthon;
-* Banco de dados realacional;
+* Banco de dados relacional;
+* RPA - Uipath / Electroneek;
 * AWS;
 
 
 
 
-<a href="mailto:gabriellyalves401@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
