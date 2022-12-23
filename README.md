@@ -1,9 +1,8 @@
 <div>
 - Podem me chamar de Gabi ✌ <br>
-- Estudo constantemente para me aperfeiçor todos os dias um pouco mais nesse universo que é a programação <br>
-- Atualmente meus estudos estão voltados para a área de desenvolminto FullStack, mas atuo também com o desenvolvimento RPA. <br>
-- Um pézinho maior no Back-End hahah <br>
-- Gosto muito de esportes, animais e capuccino <br>
+- Estudo constantemente para me aperfeiçoar todos os dias um pouco mais nesse universo que é a programação <br>
+- Atualmente meus estudos estão voltados para a área de desenvolminto FullStack, mas atuo também com o desenvolvimento RPA <br>
+- Gosto muito de esportes e animais <br>
 - Amo estar contato com a natureza  <br>
 - Atualmente estudando em paralelo pipeline de ci/cd e devOps <br>
 - Criei um programa de mentorias, onde ajudo pessoas que querem ingressar no mercado de tecnologia a direcionarem seus estudos de forma correta e intencional <br>
