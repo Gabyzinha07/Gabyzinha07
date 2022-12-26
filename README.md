@@ -1,10 +1,11 @@
 <div>
-- Podem me chamar de Gabi ✌ <br>
-- Estudo constantemente para me aperfeiçoar todos os dias um pouco mais nesse universo que é a programação <br>
-- Atualmente meus estudos estão voltados para a área de desenvolvimento FullStack, mas atuo também com o desenvolvimento RPA, estudando em paralelo pipeline de ci/cd e devOps <br>
-- Gosto muito de esportes e animais <br>
-- Amo estar em contato com a natureza  <br>
-- Criei um programa de mentorias, onde ajudo pessoas que querem ingressar no mercado de tecnologia a direcionarem seus estudos de forma correta e intencional <br>
+Desenvolvedora FullStack e Desenvolvedora RPA, já desenvolvi e entreguei dezenas de sistemas que impactam positivamente a vida de usuários, utilizando as melhores tecnologias do mercado, tendo contato direto em projetos com banco de dados relacional, VBA, VBS, PowerShell, frameworks e diversas bibliotecas da programação.<br>
+
+Estou buscando conhecimento nas áreas relacionadas a Devops, onde já tive a oportunidade de atuar em projetos com SREs adquirindo conhecimento nas plataformas mais utilizadas no mercado.<br>
+
+Atualmente presto consultoria e mentoria para pessoas que querem ingressar no mercado de tecnologia, ajudando-as a desenvolver habilidades e competências soft skills e hard skills.<br>
+
+Hoje curso análise e desenvolvimento de sistemas, tenho como objetivo profissional me tornar uma referência no mercado de tecnologia, e conseguir impactar positivamente a vida das pessoas.<br>
 </div>
   
 ***************
