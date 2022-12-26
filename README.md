@@ -16,7 +16,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
-    <img height="40" width="40" src="https://logospng.org/wp-content/uploads/bootstrap.png/>          
+    <img height="40" width="40" src="https://logospng.org/wp-content/uploads/bootstrap.png"/>          
   </p>
   
   <h3 align="center">Back End</h3>
@@ -33,7 +33,7 @@
   <h3 align="center">DevOps</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/1C6B94"/> 
-    <img height="40" width="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rhei64j6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.cycloid.io/s3fs-public/2020-05/terraform_logo_300.png>
+    <img height="40" width="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rhei64j6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.cycloid.io/s3fs-public/2020-05/terraform_logo_300.png"/>
                                                                                                           
   </p>
   
@@ -41,7 +41,7 @@
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"/>    
     <img height="40" width="40" src="https://cdn.simpleicons.org/git/1C6B94"/> 
-    <img height="40" width="40" src="https://img2.gratispng.com/20180414/fsq/kisspng-pycharm-integrated-development-environment-python-restart-5ad2617f2a9168.4877844315237369591744.jpg
+    <img height="40" width="40" src="https://img2.gratispng.com/20180414/fsq/kisspng-pycharm-integrated-development-environment-python-restart-5ad2617f2a9168.4877844315237369591744.jpg"/>
   </p>
   
   <h3 align="center">Plataformas de desenvolvimento RPA</h3>
