@@ -1,9 +1,7 @@
 <div>
-Desenvolvedora FullStack e Desenvolvedora RPA, já desenvolvi e entreguei dezenas de sistemas que impactam positivamente a vida de usuários, utilizando as melhores tecnologias do mercado, tendo contato direto em projetos com banco de dados relacional, VBA, VBS, PowerShell, frameworks e diversas bibliotecas da programação.<br>
+Conhecimentos: JavaScript | CSS | HTML | Python | NodeJS | React | Bootstrap | MySQL | Consumo de API | Testes integração e testes unitários | AWS. <br>
 
-Estou buscando conhecimento nas áreas relacionadas a Devops, onde já tive a oportunidade de atuar em projetos com SREs adquirindo conhecimento nas plataformas mais utilizadas no mercado.<br>
-
-Atualmente presto consultoria e mentoria para pessoas que querem ingressar no mercado de tecnologia, ajudando-as a desenvolver habilidades e competências soft skills e hard skills.<br>
+Atualmente presto consultoria e mentoria para pessoas que querem ingressar no mercado de tecnologia, ajudando-as a desenvolver as habilidades e competências necessárias.<br>
 
 Hoje curso análise e desenvolvimento de sistemas, tenho como objetivo profissional me tornar uma referência no mercado de tecnologia, e conseguir impactar positivamente a vida das pessoas.<br>
 </div>
@@ -17,7 +15,8 @@ Hoje curso análise e desenvolvimento de sistemas, tenho como objetivo profissio
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
-    <img height="40" width="40" src="https://logospng.org/wp-content/uploads/bootstrap.png"/>          
+    <img height="40" width="40" src="https://logospng.org/wp-content/uploads/bootstrap.png"/>   
+  <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/> 
   </p>
   
   <h3 align="center">Back End</h3>
