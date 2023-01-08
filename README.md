@@ -33,6 +33,7 @@ Hoje curso análise e desenvolvimento de sistemas, tenho como objetivo profissio
   <h3 align="center">DevOps</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/1C6B94"/> 
+  <img height="40" width="40" src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4"/> 
 
                                                                                                           
   </p>
