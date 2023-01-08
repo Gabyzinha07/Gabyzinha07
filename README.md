@@ -1,5 +1,5 @@
 <div>
-Conhecimentos: JavaScript | CSS | HTML | Python | NodeJS | React | Bootstrap | MySQL | Consumo de API | Testes integração e testes unitários | AWS. <br>
+Conhecimentos: JavaScript | CSS | HTML | Python | NodeJS | React | Bootstrap | MySQL | Consumo de API | Testes integração e testes unitários. <br>
 
 Atualmente presto consultoria e mentoria para pessoas que querem ingressar no mercado de tecnologia, ajudando-as a desenvolver as habilidades e competências necessárias.<br>
 
@@ -33,7 +33,7 @@ Hoje curso análise e desenvolvimento de sistemas, tenho como objetivo profissio
   <h3 align="center">DevOps</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/1C6B94"/> 
-    <img height="40" width="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rhei64j6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.cycloid.io/s3fs-public/2020-05/terraform_logo_300.png"/>
+
                                                                                                           
   </p>
   
